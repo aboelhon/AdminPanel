@@ -1,0 +1,4 @@
+
+
+Edit the place flash message on get-admin-info page
+in the furture edit the name of inputes attributes and messages in validation 
